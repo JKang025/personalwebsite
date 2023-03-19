@@ -81,25 +81,25 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 [[params.three.feature]]
 icon = ""
 title = "This Website"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-link = "https://github.com/JKang025/Arb-Bet"
+body = "This website you are currently looking at right now was built through the static site generator Hugo, and hosted by"
+link = "https://github.com/JKang025/personalwebsite"
 
 [[params.three.feature]]
 icon = ""
 title = "Arbitrage Betting"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "A program that can be run locally on your machine which sends email notifications of arbitrage opperunities amongst various betting websites."
 link = "https://github.com/JKang025/Arb-Bet"
 
 [[params.three.feature]]
 icon = ""
 title = "League of Legends Machine Learning Prediction Model"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "This project contains many different machine learning models that attempt to predict the outcome of an League of Legends game given both team compositions using scikit learn, pandas, and riotAPI."
 link = "https://github.com/JKang025/LOL-AI"
 
 [[params.three.feature]]
 icon = ""
 title = "Autonomous Youtube Clip Channel"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "This project webscrapes videos from twitch and reddit, then uploads the clips to an Youtube channel automatically."
 link = "https://github.com/JKang025/clipGatherer"
 
 
