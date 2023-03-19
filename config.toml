@@ -1,0 +1,145 @@
+baseURL = "/"
+title = "Jeffrey Kang"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+
+[params]
+fancyTitle = "Hey, I'm Jeffrey." # title for frontpage, may include image
+copyright = "John Doe"
+description = 'An aspiring software engineer<br />currently studying computer science<br />at the University of Southern California'
+startbuttonText = "My Github"
+startbuttonLink = "https://github.com/JKang025"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Posts"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = false
+title = 'About Me.'
+body = '''
+I'm a student at the University of Southern California originally from
+Hong Kong. I'm passionate about uplifting the computer science community
+and hope to contribute to humanity's advancement of technology.
+'''
+
+[[params.one.icon]]
+icon = "fa-diamond"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-heart-o"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "fa-code"
+style = "3"
+label = "Dolor"
+
+[params.two]
+enable = false
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = 'Tortor dolore feugiat<br />elementum magna'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[[params.two.section]]
+img = "img/pic03.jpg"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
+[params.three]
+enable = true
+title = 'Featured Work.'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.three.feature]]
+icon = ""
+title = "This Website"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+link = "https://github.com/JKang025/Arb-Bet"
+
+[[params.three.feature]]
+icon = ""
+title = "Arbitrage Betting"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+link = "https://github.com/JKang025/Arb-Bet"
+
+[[params.three.feature]]
+icon = ""
+title = "League of Legends Machine Learning Prediction Model"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+link = "https://github.com/JKang025/LOL-AI"
+
+[[params.three.feature]]
+icon = ""
+title = "Autonomous Youtube Clip Channel"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+link = "https://github.com/JKang025/clipGatherer"
+
+
+[params.cta]
+enable = false
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Learn More"
+special = false
+
+[params.contact]
+enable = false
+title = "Contact"
+body = "Leave us a message."
+phone = "+49 (0) 030 000 000"
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+email = "nospam@example.com"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+facebook = ""
+instagram = ""
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
