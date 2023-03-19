@@ -81,13 +81,13 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 [[params.three.feature]]
 icon = ""
 title = "This Website"
-body = "This website you are currently looking at right now was built through the static site generator Hugo, and hosted by"
+body = "This website you are currently looking at right now was built through the static site generator Hugo, and hosted by AWS."
 link = "https://github.com/JKang025/personalwebsite"
 
 [[params.three.feature]]
 icon = ""
 title = "Arbitrage Betting"
-body = "A program that can be run locally on your machine which sends email notifications of arbitrage opperunities amongst various betting websites."
+body = "A program that can be run locally on your machine which sends email notifications of arbitrage opportunities amongst various betting websites."
 link = "https://github.com/JKang025/Arb-Bet"
 
 [[params.three.feature]]
