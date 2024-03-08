@@ -80,27 +80,27 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 
 [[params.three.feature]]
 icon = ""
-title = "This Website"
-body = "This website you are currently looking at right now was built through the static site generator Hugo, and hosted by AWS."
-link = "https://github.com/JKang025/personalwebsite"
+title = "Token"
+body = "Token is a cashless, fully legally compliant, payment platform specializing in high-risk transactions."
+link = "https://github.com/JKang025/token"
 
 [[params.three.feature]]
 icon = ""
 title = "Arbitrage Betting"
-body = "A program that can be run locally on your machine which sends email notifications of arbitrage opportunities amongst various betting websites."
+body = "A program that detects and notifies users of arbitrage sure-bet opportunities across mutiple eSports betting platforms."
 link = "https://github.com/JKang025/Arb-Bet"
 
 [[params.three.feature]]
 icon = ""
-title = "League of Legends Machine Learning Prediction Model"
-body = "This project contains many different machine learning models that attempt to predict the outcome of an League of Legends game given both team compositions using scikit learn, pandas, and riotAPI."
+title = "League of Legends Machine Learning"
+body = "A collection of models that can predict outcomes of League of Legends games given team compositions."
 link = "https://github.com/JKang025/LOL-AI"
 
 [[params.three.feature]]
 icon = ""
-title = "Autonomous Youtube Clip Channel"
-body = "This project webscrapes videos from twitch and reddit, then uploads the clips to an Youtube channel automatically."
-link = "https://github.com/JKang025/clipGatherer"
+title = "Chess Engine Using Monte-Carlo-Search-Tree From Scratch "
+body = "A chess engine powered by a Monte-Carlo-Search-Tree, built from scratch in C++."
+link = "https://github.com/JKang025/chess-ai"
 
 
 [params.cta]
